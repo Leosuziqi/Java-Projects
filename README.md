@@ -1,3 +1,3 @@
 # Java-Projects
 
-This repositary includes some projects directed by online course "Object Oriented Programming in Java" from EDX.com and my solutions of some LeetCode problems.
+This repositary includes some projects directed by EDX online course "Object Oriented Programming in Java" by Microsoft, and my solutions of some LeetCode problems.
